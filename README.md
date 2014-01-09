@@ -1,4 +1,5 @@
 Smart-Queue
 ====================
 
-<smartqueue.github.io>
+
+<http://smartqueue.github.io>
